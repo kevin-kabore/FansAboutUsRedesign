@@ -1,0 +1,69 @@
+.headerImage {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+
+.title {
+  text-align: center;
+  color: #e60000;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 300%;
+}
+
+.description {
+  text-align: center;
+  width: 60%;
+  margin: 0 auto;
+  margin-bottom: 50px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 160%;
+}
+
+.imageRow {
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+
+.sampleImages {
+  display: inline-block;
+  max-width: 100%;
+  height: auto;
+  margin: 20px;
+  vertical-align: middle;
+}
+
+.policies {
+}
+
+#container {
+  padding-top: 5%;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.policyContent {
+  float: left;
+  width: 33.3%;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+ul {
+  margin-top: 5%;
+  text-align: center;
+}
+li {
+  display: inline-block;
+  list-style: none;
+  font-size: 250%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+a:link,
+a:visited {
+  text-decoration: none;
+}
